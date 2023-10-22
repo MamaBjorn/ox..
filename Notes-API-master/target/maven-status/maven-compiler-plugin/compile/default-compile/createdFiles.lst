@@ -1,0 +1,5 @@
+com\sopia\notesapi\model\Note.class
+com\sopia\notesapi\repository\NoteRepository.class
+com\sopia\notesapi\NotesAPIApplication.class
+com\sopia\notesapi\exception\ResourceNotFoundException.class
+com\sopia\notesapi\controller\NoteController.class
